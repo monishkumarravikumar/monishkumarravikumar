@@ -8,23 +8,11 @@
 
 <h3 align="center">𝔹𝕪 𝕕𝕒𝕪, 𝕀'𝕞 𝕒 ℂ𝕒𝕞𝕠𝕦𝕗𝕝𝕒𝕘𝕖𝕕 𝕄𝕒𝕤𝕥𝕖𝕣'𝕤 𝕊𝕥𝕦𝕕𝕖𝕟𝕥 𝕚𝕟 𝔸𝕡𝕡𝕝𝕚𝕖𝕕 ℂ𝕠𝕞𝕡𝕦𝕥𝕚𝕟𝕘 𝕒𝕥 𝕌𝕟𝕚𝕧𝕖𝕣𝕤𝕚𝕥𝕪 𝕠𝕗 𝕎𝕚𝕟𝕕𝕤𝕠𝕣</h3>
 
-                        T\ T\    
-                        | \| \| \|    
-                        |  |  :__\           
-                _____I__i  I__\_____  
-            /\     -\--\--/| \______\    
-           (  \_|    '. /| \  '. =__/  
-            \/  -  | / |  \ -  |  
-                 __|  |__|  | __  
-                | _\  <_>  / /_\  
-                || \________/||  
-                ||    |||||   ||  
-                ||    |||||   ||  
-                ||    |||||   ||  
-                ||    |||||   ||  
-                ||    |||||   ||  
-                |||||||||||||||||  
-                ||             ||  
+ <p align="center">
+  🏹 <a href="https://github.com/yourusername?tab=repositories" target="_blank">My Arsenal (Projects)</a><br>
+  🎭 <a href="https://linkedin.com/in/yourusername" target="_blank">My Alter Ego (LinkedIn)</a><br>
+  💌 <a href="mailto:youremail@example.com">Send a Bat-Signal (Email)</a><br>
+</p>
 
 
 ## 🦇 The Mission
