@@ -9,10 +9,23 @@
   University of Windsor
 </h3>
 
-- 🌱 I’m currently learning **[Technologies/Subjects you're focusing on]**
-- 💬 Ask me about **[Topics you're knowledgeable in]**
-- 📫 How to reach me: `[Your email or social media links]`
-- ⚡ Fun fact: `[Any fun fact about you]`
+## 🦇 The Mission
+
+- 🌃 In the Shadows, I'm Mastering: 
+  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=TensorFlow)
+  ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-333333?style=flat&logo=amazon-aws)
+  
+  Interested? [Witness my work](https://github.com/yourusername?tab=repositories).
+
+- 🦹‍♂️ My Arsenal Against Crime (and Bugs): 
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-333333?style=flat&logo=tableau)
+
+- 🌍 To Reach the Watchtower: 
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourusername)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+  
+- ⚡ A Glimpse Behind the Cowl: Did you know that even Batman appreciates the finer things? For instance, I dabble in 📸 photography. [Here's my other side](https://instagram.com/yourusername).
 
 ## 🛠️ My Skills
 ### Languages
