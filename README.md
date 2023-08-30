@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="URL_of_your_profile_picture_or_gif">
+  <img width="460" height="300" src="https://media.tenor.com/PFp-mBjvzVkAAAAC/asghar-batman.gif">
 </p>
 
 <h1 align="center">Hi there 👋, I'm [Your Name]</h1>
